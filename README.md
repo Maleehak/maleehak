@@ -33,12 +33,12 @@
   <tr>
      <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img title="Python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img title="Python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img title="C#"  src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+        <img title="C#"  src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
     </td>
     <td align="center" width="96">
