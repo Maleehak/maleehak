@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <imgtitle="C#"  src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+        <img title="C#"  src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
       </a>
     </td>
     <td align="center" width="96">
