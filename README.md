@@ -2,18 +2,15 @@
 
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/10846501/maleeha-khalid">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://img.shields.io/github/followers/maleehak?label=Follow&style=social">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/maleehak?color=green&logo=github">
   </a>
 </p>
 <a href="#maleehak-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleehak&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleehak&show_icons=true&count_private=true&include_all_commits=true" alt="maaleehak" align="right" />
 </a>
 
 - 📫 How to reach me:
