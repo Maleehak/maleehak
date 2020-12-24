@@ -33,113 +33,95 @@
   <tr>
      <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       </a>
-      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#maleeha-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       </a>
-      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"  width="40" height="40" alt="React" />
       </a>
-      <br>React
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"  width="40" height="40" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-         <img title="Git"  width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
+         <img title="Git"   width="40" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
       </a>
-      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-      <img title="Visual Studio Code" width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
+      <img title="Visual Studio Code"  width="40" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
       </a>
-      <br>VS Code
     </td>
        <td align="center" width="96">
       <a href="#maleehak-tech">
-      <img title="Visual Studio Code"  width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png">
+      <img title="Visual Studio Code"   width="40" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png">
       </a>
-      <br>VS
     </td>
       <td align="center" width="96">
       <a href="#maleehak-tech">
-      <img title="C"  width="48" height="48"  src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
+      <img title="C"  width="40" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
       </a>
-      <br>C
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#maleehak-tech" >
-        <img title="C++"  src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" width="48" height="48" alt="C++" />
+        <img title="C++"  src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" width="40" height="40" alt="C++" />
       </a>
-      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech" >
-     <img title="Tensorflow"  src="https://github.com/valohai/ml-logos/blob/master/tensorflow-text.svg" width="48" height="48">
+     <img title="Tensorflow"  src="https://github.com/valohai/ml-logos/blob/master/tensorflow-text.svg"  width="40" height="40">
       </a>
-      <br>Tensorlfow
     </td>
     <td align="center"  width="96">
       <a href="#maleehak-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48" height="48" alt="android" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  width="40" height="40" alt="android" />
       </a>
-      <br>Android
     </td>
     <td align="center"  width="96">
       <a href="#maleehak-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="Pycharm" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  width="40" height="40" alt="Pycharm" />
       </a>
-      <br>Pycharm
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img src="https://github.com/googlecolab/open_in_colab/blob/main/images/icon32.png" width="48" height="48" alt="Google Colab" />
+        <img src="https://github.com/googlecolab/open_in_colab/blob/main/images/icon32.png"  width="40" height="40" alt="Google Colab" />
       </a>
-      <br>Colab
     </td>
     <td align="center"  width="96">
       <a href="#maleehak-tech">
-        <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="48" height="48" alt="keras" />
+        <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg"  width="40" height="40" alt="keras" />
       </a>
-      <br>Keras
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech" >
-        <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"  width="40" height="40" alt="Java" />
       </a>
-      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"  width="48" height="48">
+        <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"   width="40" height="40">
       </a>
-      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech" >
-       <img title=".NetCore" width="48" height="48"  src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg">
+       <img title=".NetCore" width="40" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg">
       </a>
-      <br>.NETCore
     </td>
   </tr>
   
