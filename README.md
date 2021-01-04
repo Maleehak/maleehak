@@ -30,7 +30,7 @@
   <tr>
      <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img title="Python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img title="Python" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" />
       </a>
     </td>
     <td align="center" width="96">
@@ -40,17 +40,17 @@
     </td>
     <td align="center" width="96">
       <a href="#maleeha-tech">
-        <img title="JS" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img title="JS" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" style= width="48" height="48" alt="JavaScript" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech" >
-        <img title="React" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"  width="48" height="48" alt="React" />
+        <img title="React" src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667"  width="48" height="48" alt="React" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#maleehak-tech">
-        <img title="Bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"  width="48" height="48" alt="Bootstrap" />
+        <img title="Bootstrap" src="https://github.com/twbs/icons/blob/0cdaee7305c4543ffec3d80f08afafd6ea8cd130/icons/bootstrap.svg"  width="48" height="48" alt="Bootstrap" />
       </a>
     </td>
     <td align="center" width="96">
