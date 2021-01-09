@@ -8,6 +8,10 @@
   <a href="https://img.shields.io/github/followers/maleehak?label=Follow&style=social">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/maleehak?color=green&logo=github">
   </a>
+    <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
+    <img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501">
+  </a>
+
 </p>
 <a href="#maleehak-title">
   <img src="https://github-readme-stats.vercel.app/api?username=maleehak&show_icons=true&count_private=true&include_all_commits=true" alt="maaleehak" align="right" />
