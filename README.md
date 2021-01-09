@@ -5,11 +5,11 @@
   <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
   </a>
-  <a href="https://img.shields.io/github/followers/maleehak?label=Follow&style=social">
+  <a href="https://github.com/Maleehak">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/maleehak?color=green&logo=github">
   </a>
     <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
-    <img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501">
   </a>
 
 </p>
