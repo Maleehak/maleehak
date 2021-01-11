@@ -8,8 +8,8 @@
   <a href="https://github.com/Maleehak">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/maleehak?color=green&logo=github">
   </a>
-    <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
-    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501">
+   <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=social">
   </a>
 
 </p>
