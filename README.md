@@ -9,7 +9,7 @@
   <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
   </a>
-    <a href="maleehak.github.io">
+    <a href="https://maleehak.github.io/">
     <img alt="GooglePlus" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
    <a href="https://www.linkedin.com/in/maleehak/">
