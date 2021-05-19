@@ -1,129 +1,45 @@
-<h1 align="left" id="macropower-title">Maleeha Khalid </h1>
-
+<h1 align="left" id="title"> Hey!</h1>
+<p>
+ I'm Maleeha Khalid, final year student from UET Lahore. I'm very passionalte about learning and applying new technologies specially in healthcare. I'm a Microsoft learn student ambassador, a teaching assistant and a software engineer with the drive for continous self improvement and professional growth. 
+ </p>
+ 
+ 
 
 <p align="left">
   <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
   </a>
-  <a href="https://github.com/Maleehak">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/maleehak?color=green&logo=github">
+    <a href="maleehak.github.io">
+    <img alt="GooglePlus" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+   <a href="https://www.linkedin.com/in/maleehak/">
+    <img alt="Stackoverflow" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square">
+  </a> 
+   <a href="mailto:maleehakhalid05@gmail.com">
+    <img alt="GooglePlus" src="https://aleen42.github.io/badges/src/google_plus.svg">
   </a>
    <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
-    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=social">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=flat-square">
   </a>
 
 </p>
+
 <a href="#maleehak-title">
   <img src="https://github-readme-stats.vercel.app/api?username=maleehak&show_icons=true&count_private=true&include_all_commits=true" alt="maaleehak" align="right" />
 </a>
 
-- 📫 How to reach me:
+### Favorite Tech
 
-    * [**Drop a Mail**](mailto:maleehakhalid604@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/maleeha-khalid-097b9a175/)
 
-    * [**Visit my Website**](https://maleehak.github.io/)
-<br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-     <td align="center" width="96">
-      <a href="#maleehak-tech">
-        <img title="Python" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech">
-        <img title="C#"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleeha-tech">
-        <img title="JS" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" style= width="48" height="48" alt="JavaScript" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech" >
-        <img title="React" src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667"  width="48" height="48" alt="React" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech">
-        <img title="Bootstrap" src="https://github.com/twbs/icons/blob/0cdaee7305c4543ffec3d80f08afafd6ea8cd130/icons/bootstrap.svg"  width="48" height="48" alt="Bootstrap" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech">
-         <img title="Git"   width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech">
-      <img title="Visual Studio Code"  width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
-      </a>
-    </td>
-       <td align="center" width="96">
-      <a href="#maleehak-tech">
-      <img title="Visual Studio Code"   width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png">
-      </a>
-    </td>
-      <td align="center" width="96">
-      <a href="#maleehak-tech">
-      <img title="C"  width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#maleehak-tech" >
-        <img title="C++"  src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" width="48" height="48" alt="C++" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech" >
-     <img title="Tensorflow"  src="https://github.com/valohai/ml-logos/blob/master/tensorflow-text.svg"  width="48" height="48"/ >
-      </a>
-    </td>
-    <td align="center"  width="96">
-      <a href="#maleehak-tech">
-        <img title="Android" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48" height="48" alt="android" />
-      </a>
-    </td>
-    <td align="center"  width="96">
-      <a href="#maleehak-tech">
-        <img title="Pycharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  width="48" height="48" alt="Pycharm" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech">
-        <img title="Colab" src="https://github.com/googlecolab/open_in_colab/blob/main/images/icon32.png" width="48" height="48" alt="Google Colab" />
-      </a>
-    </td>
-    <td align="center"  width="96">
-      <a href="#maleehak-tech">
-        <img  title="Keras" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"  width="48" height="48" alt="keras" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech" >
-        <img  title="Java" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"  width="48" height="48" alt="Java" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"   width="48" height="48"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#maleehak-tech" >
-       <img title=".NetCore" width="48" height="48" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"/>
-      </a>
-    </td>
-  </tr>
-  
-</table>
