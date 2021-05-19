@@ -1,6 +1,6 @@
 <h1 align="left" id="title"> Hey!</h1>
 <p>
- I'm Maleeha Khalid, final year student from UET Lahore. I'm very passionalte about learning and applying new technologies specially in healthcare. I'm a Microsoft learn student ambassador, a teaching assistant and a software engineer with the drive for continous self improvement and professional growth. 
+ I'm Maleeha Khalid, final year student from UET Lahore. I'm very passionate about learning and applying new technologies, specially in healthcare. I'm a Microsoft learn student ambassador, a teaching assistant and a software engineer with the drive for continous self improvement and professional growth. 
  </p>
  
  
