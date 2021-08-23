@@ -1,10 +1,4 @@
-<h1 align="left" id="title"> Hey!</h1>
-<p>
- I'm Maleeha Khalid, final year student from UET Lahore. I'm very passionate about learning and applying new technologies, specially in healthcare. I'm a Microsoft learn student ambassador, a teaching assistant and a software engineer with the drive for continous self improvement and professional growth. 
- </p>
- 
- 
-
+<h1 align="left" id="title"> Hey! </h1>
 <p align="left">
   <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
@@ -23,11 +17,10 @@
   </a>
 
 </p>
-
-<a href="#maleehak-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleehak&show_icons=true&count_private=true&include_all_commits=true" alt="maaleehak" align="right" />
-</a>
-
+<p>
+ I am Maleeha Khalid, software engineer, Stackoverflow contributor(top 9%), Microsoft learn ambassador and AI in healthcare advocate.
+ </p>
+ 
 ### Favorite Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
