@@ -18,7 +18,7 @@
 
 </p>
 <p>
- I am Maleeha Khalid, software engineer, Stackoverflow contributor(top 9%), Microsoft learn ambassador and AI in healthcare advocate.
+ I am Maleeha Khalid. I am a software engineer, Stackoverflow contributor(top 9%), Microsoft learn ambassador and AI in healthcare advocate.
  </p>
  
 ### Favorite Tech
