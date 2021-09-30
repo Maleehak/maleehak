@@ -1,8 +1,5 @@
 <h1 align="left" id="title"> Hey! </h1>
 <p align="left">
-    <a href="https://maleehak.github.io/">
-    <img alt="GooglePlus" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white">
-  </a>
    <a href="https://www.linkedin.com/in/maleehak/">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square">
   </a> 
