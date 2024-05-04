@@ -2,14 +2,14 @@
    <a href="https://www.linkedin.com/in/maleehak/">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square">
   </a> 
-   <a href="mailto:maleehakhalid05@gmail.com">
+   <a href="mailto:maleehakdev@gmail.com">
     <img alt="GooglePlus" src="https://aleen42.github.io/badges/src/google_plus.svg">
   </a>
-   <a href="https://stackoverflow.com/users/10846501/maleeha-khalid?tab=profile">
-    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=flat-square">
+   <a href="https://x.com/maleehak_dev">
+    <img alt="X" src="https://img.shields.io/badge/X-000?style=flat-square">
   </a>
-  <a href="https://stackoverflow.com/users/10846501/maleeha-khalid">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?color=orange&label=reputation&logo=stackoverflow">
+   <a href="https://stackoverflow.com/users/10846501/maleehak?tab=profile">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=flat-square">
   </a>
   <a href="https://github.com/maleehak/maleehak">
     <img src="https://komarev.com/ghpvc/?username=maleehak" alt="page views" />
@@ -18,7 +18,7 @@
 
  Hi, Maleeha's here. I am a Software Engineer with over 3 years of experience, currently working at Confiz as a full stack developer.
  In my free time, I like to build projects around ML/AI. My main tech stack is Java + React but I'm always open to learning new technologies. 
- If you like to collaborate with me, feel free to message me on [My LinkedIn](https://www.linkedin.com/in/maleehak/) or drop me an email at [Gmail](mailto:maleehakhalid05@gmail.com)  
+ If you like to collaborate with me, feel free to message me on [My LinkedIn](https://www.linkedin.com/in/maleehak/) or drop me an email at [Gmail](mailto:maleehakdev@gmail.com)  
 
 
 ### Favorite Tech
